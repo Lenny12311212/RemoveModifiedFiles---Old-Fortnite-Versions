@@ -1,5 +1,5 @@
 # RemoveModifiedFiles old Fornite versions
-### An app that deletes some custom files added by some launchers/servers from old Fortnite versions folders.
+### An app that deletes custom files added by some launchers/servers from old Fortnite versions folders.
 
 ![image](https://github.com/user-attachments/assets/50c4fd71-7bfe-4ca7-a816-54babb44f099)
 ![image](https://github.com/user-attachments/assets/fd0342e3-89df-4b79-891b-0fd44f8e54da)
