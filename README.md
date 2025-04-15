@@ -2,6 +2,7 @@
 ### An app that deletes custom files added by launchers/servers from old Fortnite versions folders.
 -------------
 You can download the version for Fortnite v9.10 or v12.41 in [releases](https://github.com/Lenny12311212/RemoveModifiedFiles---Old-Fortnite-Versions/releases).
+-------------
 
 ![image](https://github.com/user-attachments/assets/50c4fd71-7bfe-4ca7-a816-54babb44f099)
 ![image](https://github.com/user-attachments/assets/fd0342e3-89df-4b79-891b-0fd44f8e54da)
